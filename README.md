@@ -6,7 +6,7 @@ This repository contains my daily practice of Data Structures and Algorithms.
 I am starting DSA from the basics to improve my problem-solving skills and prepare for technical interviews.
 
 ## Language
-- Java
+- Python
 
 ## Rules I follow
 - Practice daily
