@@ -18,8 +18,8 @@ Python is dynamically typed, meaning the data type is determined at runtime.
 - `bool` – represents True or False
 
 #### Sequence Types
-- `list` – ordered and mutable
-- `tuple` – ordered and immutable
+- `list` – ordered and mutable (- Mutable means changeable. Once created, the object’s content can be modified)
+- `tuple` – ordered and immutable (- Immutable means unchangeable. Once created, the object’s content cannot be modified)
 - `range` – sequence of numbers
 
 #### Mapping Type
