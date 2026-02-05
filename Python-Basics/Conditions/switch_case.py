@@ -26,8 +26,8 @@ match day:
 
 
 # Example 2: Constant Expression
-x = 10
-y = 5
+x = int(input("Enter an Number1: "))
+y = int(input("Enter an Number2: "))
 
 match x + y:
     case 15:
@@ -39,7 +39,7 @@ match x + y:
 
 
 # Example 3: Character Matching
-grade = 'B'
+grade = str(input("Enter a grade (A, B, C): "))
 
 match grade:
     case 'A':
