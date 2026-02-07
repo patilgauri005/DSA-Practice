@@ -15,3 +15,4 @@ I am starting DSA from the basics to improve my problem-solving skills and prepa
 
 ## Progress
 - Day 0: Repository setup
+- Day 1:
